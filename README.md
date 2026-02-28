@@ -1,73 +1,143 @@
-# Welcome to your Lovable project
+💖 Valentine Love Book
 
-## Project info
+A magical, romantic, animated Valentine’s Day website — crafted as a digital love story book.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This project is a soft, dreamy, interactive surprise designed to make someone feel truly special 💕
 
-## How can I edit this code?
+It transforms a simple webpage into:
 
-There are several ways of editing your application.
+✨ A romantic experience
+📖 A storybook of love
+💌 A personal emotional gift
 
-**Use Lovable**
+🌸 About The Project
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Valentine Love Book is a fully animated, mobile-responsive, static website that opens into a beautiful 3D love story.
 
-Changes made via Lovable will be committed automatically to this repo.
+Instead of giving just a message…
 
-**Use your preferred IDE**
+You give an experience.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+From floating hearts to page-flip animations, the website walks your loved one through a romantic journey across 5 heartfelt pages — ending with a special message and music.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+No backend.
+No complexity.
+Just pure love — deployed as a website ❤️
 
-Follow these steps:
+🎯 Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+💌 Romantic Landing Screen
+📖 Animated Love Story Book
+💕 Smooth Page Flip Transitions
+🌸 Floating Hearts Background
+✨ Soft Glow UI & Dreamy Colors
+🎵 Audio Love Note on Final Page
+📱 Fully Mobile Responsive
+🚀 Static Deployable (GitHub Pages Ready)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+📚 Book Journey
 
-# Step 3: Install the necessary dependencies.
-npm i
+The experience includes:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Page	Theme
+1	Magical admiration
+2	Sweet Tagalog love
+3	Cute pickup charm
+4	Heartfelt devotion
+5	Emotional ending + Music
+🛠 Tech Stack
 
-**Edit a file directly in GitHub**
+Built using modern frontend tools for smooth animations:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+⚛️ React + Vite
 
-**Use GitHub Codespaces**
+🎨 Tailwind CSS
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🎞 Framer Motion
 
-## What technologies are used for this project?
+🟦 TypeScript
 
-This project is built with:
+No backend required.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Fully static.
 
-## How can I deploy this project?
+Perfect for GitHub Pages.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+🎨 Design Theme
 
-## Can I connect a custom domain to my Lovable project?
+Inspired by:
 
-Yes, you can!
+💗 Valentine’s Day softness
+🌹 Romantic storytelling
+✨ Magical book aesthetic
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Color Palette:
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Soft Pink
+
+Rose Red
+
+Pastel Peach
+
+Warm White
+
+Mood:
+
+“A digital love story written just for one person.”
+
+🎵 Audio Support
+
+The final page includes a music player.
+
+To personalize:
+
+Replace:
+
+public/assets/music-placeholder.mp3
+
+With your chosen love song 🎶
+
+📱 Mobile First
+
+Designed for:
+
+✔ Smooth touch interaction
+✔ Tap-based navigation
+✔ Responsive scaling
+✔ Thumb-friendly controls
+
+Works beautifully on phones 💕
+
+🚀 Deployment (GitHub Pages)
+
+This project is fully static and GitHub Pages compatible.
+
+Build:
+
+npm run build
+
+Deploy:
+
+npm run deploy
+
+And your love story goes live 🌍💖
+
+💡 Use Cases
+
+Perfect for:
+
+💌 Valentine’s Day surprise
+🎂 Birthday love message
+💍 Proposal story
+💕 Anniversary gift
+
+🥰 Final Note
+
+Some gifts are bought.
+
+Some are created.
+
+This one is coded with love.
+
+“No matter how many pages life gives us,
+I only want to write them with you 💗”
