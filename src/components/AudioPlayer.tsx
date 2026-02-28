@@ -37,7 +37,7 @@ const AudioPlayer = () => {
         {isPlaying ? <Pause className="w-6 h-6" /> : <Play className="w-6 h-6 ml-0.5" />}
       </motion.button>
       {/* Replace the src below with your audio file path */}
-      <audio ref={audioRef} src="/assets/music-placeholder.mp3" loop />
+      <audio ref={audioRef} src="/assets/chahun.mp3" loop />
     </motion.div>
   );
 };
